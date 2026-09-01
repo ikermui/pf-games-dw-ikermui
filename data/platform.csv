@@ -1,0 +1,6 @@
+platform_id,platform_name,windows,mac,linux,launch_year,market_share_pct
+1,Steam,True,True,True,2003,75.0
+2,Epic Games,True,True,False,2018,12.0
+3,GOG,True,True,True,2008,5.0
+4,itch.io,True,True,True,2013,3.0
+5,Amazon Luna,False,False,False,2020,2.0
